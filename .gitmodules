@@ -4,3 +4,9 @@
 [submodule "Spec/UIAutomation/jasmine-iphone"]
 	path = Spec/UIAutomation/jasmine-iphone
 	url = git://github.com/pivotal/jasmine-iphone.git
+[submodule "Externals/OCHamcrest"]
+	path = Externals/OCHamcrest
+	url = git@github.com:johnclayton/OCHamcrest.git
+[submodule "Externals/OCMock"]
+	path = Externals/OCMock
+	url = git@github.com:johnclayton/OCMock.git
